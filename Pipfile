@@ -9,6 +9,9 @@ flask-sqlalchemy = "*"
 flask-marshmallow = "*"
 marshmallow-sqlalchemy = "*"
 marshmallow = "*"
+flask-restful = "*"
+pylint = "*"
+flask = "*"
 
 [dev-packages]
 
